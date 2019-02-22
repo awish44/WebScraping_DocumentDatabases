@@ -23,15 +23,11 @@ Web application built with Flask, Python, ChromeDriver, BeautifulSoup, PyMongo &
 
 * Used MongoDB with Flask templating to create a new HTML page that displays all of the information that was scraped from the URLs above.
 
-* Converted Jupyter notebook into a Python script called with a function called `scrape` that executes all of the scraping code from above and returned one Python dictionary containing all of the scraped data.
+* Converted Jupyter notebook into a Python script called with a function called `scrape` that executes all of the scraping code.
 
-* Created a route called `/scrape` that imported the python script and called my `scrape` function.
+* Created a routes to leverage Mongo Database and `/scrape` function.
 
- * Stored the return value in Mongo as a Python dictionary.
-
-* Created a root route `/` to query Mongo database and pass the mars data into an HTML template to display the data.
-
-* Created a template HTML file called `index.html` that took the mars data dictionary and displayed all of the data in the appropriate HTML elements. 
+* Created a template HTML file called `index.html` that displayed all of the data in the appropriate HTML elements. 
 
 # My Final Site:
 
