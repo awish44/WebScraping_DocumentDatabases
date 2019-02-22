@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700,700i');
+
+body {
+  overflow-x: hidden;
+  font-family: 'Lato', sans-serif;
+  color: #505962;
+}
+
+.analysis-hr {
+  border-top:  2rem solid #1EBBA3;
+}
+
+
+.header {
+  color:black; 
+  font-size: 15rem; 
+  font-weight: 700; 
+  text-shadow: .1rem .1rem .5rem white;
+}
+
+
+ /*--- Media Queries ---*/
+
+ @media (max-width: 767px) {
+  .caption h1 {
+    font-size: 2.3rem;
+    letter-spacing:  .15rem;
+    padding-bottom: .5rem;
+    
+  }
+  
+  .caption h3 {
+    font-size: 1.2rem;
+    padding-bottom: 1.2rem;
+    
+  }
+  
+  .btn-lg {
+    padding: .5rem 1rem;
+    font-size: 1rem;
+  }
+}
