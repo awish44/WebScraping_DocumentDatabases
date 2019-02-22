@@ -29,6 +29,6 @@ Web application built with Flask, Python, ChromeDriver, BeautifulSoup, PyMongo &
 
 # My Final Site:
 
-![finalapp_p1.png](images/finalapp_pt1.png)
-![finalapp_p2.png](images/finalapp_p2.png)
+![finalapp_p1.PNG](images/finalapp_p1.PNG)
+![finalapp_p2.PNG](images/finalapp_p2.PNG)
 
