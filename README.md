@@ -1,6 +1,12 @@
 # WebScraping_DocumentDatabases
 Web application built with Flask, Python, ChromeDriver, BeautifulSoup, PyMongo & Bootstrap that scrapes various websites for data related to the Mission to Mars and rendered on an HTML page.
 
+* **View my final codes here:**
+* [Jupyter Notebook Code](mission_to_mars.ipynb)
+* [Python Scrape Function](scrape_mars.py)
+* [Flask App](app.py)
+* [HTML Page](templates/index.html)
+
 ## Sites Scraped:
 
 * **NASA Mars News:** Scraped the [NASA Mars News Site](https://mars.nasa.gov/news/) to collect the latest News Title and Paragraph Text.
