@@ -3,20 +3,15 @@ Web application built with Flask, Python, ChromeDriver, BeautifulSoup, PyMongo &
 
 ## Sites Scraped:
 
-## NASA Mars News
-* [NASA Mars News Site](https://mars.nasa.gov/news/) to collect the latest News Title and Paragraph Text.
+* **NASA Mars News: ** [NASA Mars News Site](https://mars.nasa.gov/news/) to collect the latest News Title and Paragraph Text.
 
-### JPL Mars Space Images - Featured Image
-* Navigate the [site](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars) and find the image url for the current Featured Mars 
+* **JPL Mars Space Images - Featured Image:** Navigate the [site](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars) and find the image url for the current Featured Mars 
 
-### Mars Weather
-* Mars Weather [twitter account](https://twitter.com/marswxreport?lang=en) to scrape the latest Mars weather tweet.
+* **Mars Weather:** Mars Weather [twitter account](https://twitter.com/marswxreport?lang=en) to scrape the latest Mars weather tweet.
 
-### Mars Facts
-* Visit the Mars Facts [webpage](http://space-facts.com/mars/) and use Pandas to scrape the table containing facts about the planet then convert the data to a HTML table string.
+* **Mars Facts:** Visit the Mars Facts [webpage](http://space-facts.com/mars/) and use Pandas to scrape the table containing facts about the planet then convert the data to a HTML table string.
 
-### Mars Hemispheres
-* Used the [USGS Astrogeology site](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars) to obtain high resolution images for each of Mar's hemispheres.
+* **Mars Hemispheres:** Used the [USGS Astrogeology site](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars) to obtain high resolution images for each of Mar's hemispheres.
 
 ## MongoDB and Flask Application
 
