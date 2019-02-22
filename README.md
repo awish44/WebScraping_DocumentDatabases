@@ -3,7 +3,7 @@ Web application built with Flask, Python, ChromeDriver, BeautifulSoup, PyMongo &
 
 ## Sites Scraped:
 
-* **NASA Mars News: ** [NASA Mars News Site](https://mars.nasa.gov/news/) to collect the latest News Title and Paragraph Text.
+* **NASA Mars News:** Scraped the [NASA Mars News Site](https://mars.nasa.gov/news/) to collect the latest News Title and Paragraph Text.
 
 * **JPL Mars Space Images - Featured Image:** Navigate the [site](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars) and find the image url for the current Featured Mars 
 
